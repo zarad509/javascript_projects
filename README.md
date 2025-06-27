@@ -1,0 +1,1 @@
+some mini projects for practice
