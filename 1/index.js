@@ -6,7 +6,8 @@ const body = document.getElementsByTagName("body")[0]
 
 function setColor(name) { //create a function called setColor and it's gonna change by colors names
     
-    body.style.backgroundColor = name; // define name and what it'll do. don't put name first or it'll mess up 
+    body.style.backgroundColor = name; 
+    // define name and what it'll do. don't put name first or it'll mess up 
     // the background color will change as we type different colors in html file
     body.style.color = "white"; //changes the text color
 

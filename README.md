@@ -1,1 +1,1 @@
-some mini projects for practice
+some mini js projects for practice
